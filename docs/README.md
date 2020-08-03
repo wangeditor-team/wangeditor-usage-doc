@@ -14,7 +14,7 @@ npm 安装 `npm i wangeditor --save` ，几行代码即可创建一个编辑器
 
 ```js
 import E from 'wangeditor'
-var editor = new E('#div1')
+const editor = new E('#div1')
 editor.create()
 ```
 
@@ -32,3 +32,5 @@ editor.create()
 # 开发人员
 
 （列出所有开发人员）
+
+- [王福朋](https://github.com/wangfupeng1988/)
