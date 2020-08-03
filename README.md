@@ -1,2 +1,3 @@
-# wangeditor-users-doc
-wangeditor users doc
+# wangEditor-users-doc
+
+wangEditor 用户文档

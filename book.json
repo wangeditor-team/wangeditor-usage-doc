@@ -1,0 +1,52 @@
+{
+    "title": "wangEditor 用户文档",
+    "author": "wangfupeng",
+    "description": "wangEditor 用户文档",
+    "language": "zh-hans",
+    "root": "docs",
+    "plugins": [
+        "advanced-emoji",
+        "todo",
+        "chapter-fold",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "github",
+        "splitter",
+        "tbfed-pagefooter",
+        "donate",
+        "hide-element",
+        "anchor-navigation-ex"
+    ],
+    "pluginsConfig": {
+        "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": true,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        },
+        "github": {
+            "url": "https://github.com/wangeditor-team/wangeditor"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy wangEditor (2020 - present)"
+        },
+        "donate": {
+            "wechat": "https://what-is-fe.gitee.io/images/wechat-pay.jpeg",
+            "alipay": "https://what-is-fe.gitee.io/images/ali-pay.jpeg",
+            "title": "",
+            "button": "捐赠",
+            "alipayText": "",
+            "wechatText": ""
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
+    }
+}
