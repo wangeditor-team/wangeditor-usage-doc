@@ -9,5 +9,7 @@
 * [粘贴过滤](./paste.md)
 * [上传图片](./upload-img.md)
 * [常用 API](./API.md)
+* [用于 Vue 和 React](./vue-react.md)
+* [使用 typescript](./ts.md)
 * [扩展菜单](./custom-menu.md)
 * [多语言](./i18n.md)
