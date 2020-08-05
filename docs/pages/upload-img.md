@@ -16,7 +16,7 @@ editor.create()
 
 配置完成之后，编辑器的图片菜单，会显示上传图片的 tab 和图标，如下图。
 
-![](./_images/upload-img.png)
+![](../_images/upload-img.png)
 
 ## server 接口返回格式，重要！！！
 
@@ -181,7 +181,7 @@ editor.config.customUploadImg = function (resultFiles, insertImgFn) {
 
 【注意】`uploadImgShowBase64`（base64 格式）和 `uploadImgServer`（上传图片到服务器）**两者不能同时使用**！！！
 
-![](./_images/base64.png)
+![](../_images/base64.png)
 
 # 隐藏插入网络图片的功能
 

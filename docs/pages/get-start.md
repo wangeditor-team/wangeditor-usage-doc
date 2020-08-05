@@ -45,7 +45,7 @@ editor.$textContainerElem.css('height', '600px')
 
 这样，菜单和编辑器区域就是使用者可自己控制的元素，可自定义样式。例如：将菜单fixed、编辑器区域高度自动增加等。
 
-![](./_images/separate.png)
+![](../_images/separate.png)
 
 ```html
 <head>
