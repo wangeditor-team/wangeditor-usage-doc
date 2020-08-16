@@ -95,6 +95,26 @@ editor.create()
 
 # 插入代码
 
-需要引入 `highlight.js`
+默认情况下可以输入代码，但没有代码高亮。但可以借助 `highlight.js` 实现代码高亮。
 
-其他描述待补充。
+## 安装 highlight
+
+npm 方式
+
+CDN 引入
+
+## 挂载 highlight
+
+js `editor.highlight = hljs`
+
+引入 css （如果是 npm 安装，可以从 `node_modules` 中引入）
+
+然后编辑器即可生效使用
+
+## 显示内容
+
+即，显示编辑器内容时，如何实现代码高亮？
+
+此处可以给一个简单的使用说明，详细的让用户去参考 highlight 的文档
+
+
