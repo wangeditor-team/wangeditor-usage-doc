@@ -151,4 +151,4 @@ CDN引入
 hljs.initHighlightingOnLoad();
 ```
 
-
+更多highlight使用方法, 请参考highlight.js官方手册
