@@ -97,11 +97,21 @@ editor.create()
 
 默认情况下可以输入代码，但没有代码高亮。但可以借助 `highlight.js` 实现代码高亮。
 
+highlight js官网: https://highlightjs.org
+
 ## 安装 highlight
 
 npm 方式
 
+```javascript
+npm install highlight.js -S
+```
+
 CDN 引入
+
+```html
+<script src="http://cdn.bootcss.com/highlight.js/8.0/highlight.min.js"></script>
+```
 
 ## 挂载 highlight
 
@@ -111,10 +121,34 @@ js `editor.highlight = hljs`
 
 然后编辑器即可生效使用
 
+挂载设置代码如下
+
+```javascript
+const E = window.wangEditor
+const editor = new E('#div1')
+
+// 挂载highlight插件
+editor.highlight = hljs
+
+editor.create()
+```
+
+CDN引入
+
+```html
+<link href="http://cdn.bootcss.com/highlight.js/8.0/styles/monokai_sublime.min.css" rel="stylesheet">
+```
+
+完成以上所有步骤之后, 再次使用wangEditor中的  **插入代码** 功能, 就能够有高亮效果了, 如图所示
+
+![highlight-example](../_images/highlight-example.png)
+
 ## 显示内容
 
-即，显示编辑器内容时，如何实现代码高亮？
+当您在读取文本数据作展示时, 需要使用highlight重新渲染
 
-此处可以给一个简单的使用说明，详细的让用户去参考 highlight 的文档
+```javascript
+hljs.initHighlightingOnLoad();
+```
 
 
