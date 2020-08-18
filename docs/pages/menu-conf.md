@@ -121,7 +121,7 @@ CDN 引入
 import hljs from 'highlight.js'
 ```
 
-cdn引入,highlight 实例 "hljs"会声明到window下, 直接调用即可.
+(cdn引入,highlight 实例 "hljs"会声明到window下, 直接调用即可)
 
 挂载设置代码如下
 
@@ -157,8 +157,16 @@ CDN引入
 
 当您在读取文本数据作展示时, 需要使用highlight重新渲染
 
+**1.首先您需要在文本展示页面安装highlight插件**
+
+(安装方式与富文本页面引入highlight相同,不再赘述)
+
+**2.获取的到highlight的实例后, 使用其全局渲染方法, 对代码文本进行渲染, 即可实现高亮显示.**
+
 ```javascript
 hljs.initHighlightingOnLoad();
 ```
+
+
 
 更多highlight使用方法, 请参考highlight.js官方手册
