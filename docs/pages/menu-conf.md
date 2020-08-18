@@ -95,7 +95,7 @@ editor.create()
 
 # 插入代码
 
-默认情况下可以输入代码，但没有代码高亮。但可以借助 `highlight.js` 实现代码高亮。
+wangEditoor中的"插入代码"菜单模块, 支持通过引入  **highlight js** 插件实现代码高亮的样式功能.并且提供多种样式支持. 编辑器默认不带有 highlight, 您需要手动安装高亮插件.
 
 highlight js官网: https://highlightjs.org
 
@@ -115,11 +115,13 @@ CDN 引入
 
 ## 挂载 highlight
 
-js `editor.highlight = hljs`
+**1.获取highlight实例**
 
-引入 css （如果是 npm 安装，可以从 `node_modules` 中引入）
+```javascript
+import hljs from 'highlight.js'
+```
 
-然后编辑器即可生效使用
+cdn引入,highlight 实例 "hljs"会声明到window下, 直接调用即可.
 
 挂载设置代码如下
 
@@ -131,6 +133,14 @@ const editor = new E('#div1')
 editor.highlight = hljs
 
 editor.create()
+```
+
+**2.css的引入**
+
+npm方式
+
+```javascript
+import 'highlight.js/styles/monokai_sublime.css'
 ```
 
 CDN引入
