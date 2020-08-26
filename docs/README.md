@@ -6,7 +6,9 @@
 - 文档：[www.wangEditor.com/doc](http://www.wangeditor.com/doc)
 - 源码：[github.com/wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangeditor) （欢迎 star）
 
-![](./_images/demo-pic.png)
+![](./images/demo-pic.png)
+
+*（如想继续使用 `V3` 版本，可参考[这里](/pages/01-开始使用/08-使用V3版本.html)）*
 
 # 基本使用
 

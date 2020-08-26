@@ -2,7 +2,7 @@
 
 DropList 菜单，鼠标 hover 菜单时，显示下拉列表，如下图。
 
-![](../../_images/droplist.png)
+![](../../images/droplist.png)
 
 开发一个 DropList 菜单的 class 代码如下。**另，注册菜单，和上文过程一样，不再赘述。**
 

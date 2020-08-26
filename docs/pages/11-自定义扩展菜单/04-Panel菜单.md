@@ -2,7 +2,7 @@
 
 Panel 菜单，点击菜单时，弹出 panel ，如下图。
 
-![](../../_images/panel.png)
+![](../../images/panel.png)
 
 开发一个 Panel 菜单，可直接参考[视频菜单的源码](https://github.com/wangeditor-team/we-next/tree/master/src/menus/video)，比较好理解。看源码过程中需注意：
 

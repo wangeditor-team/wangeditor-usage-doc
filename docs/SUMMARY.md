@@ -1,5 +1,5 @@
 
-## _images
+## images
 
 
 ## pages
@@ -13,6 +13,7 @@
     - [一个页面多个编辑器](pages/01-开始使用/05-一个页面多个编辑器.md)
     - [配置 z-index](pages/01-开始使用/06-zIndex.md)
     - [placeholder](pages/01-开始使用/07-placeholder.md)
+    - [使用V3版本](pages/01-开始使用/08-使用V3版本.md)
 - [02-内容处理](pages/02-内容处理/README.md)
 
     - [设置内容](pages/02-内容处理/01-设置内容.md)
@@ -51,13 +52,14 @@
     - [限制一次最多能传几张图片](pages/07-上传图片/03-限制一次最多能传几张图片.md)
     - [自定义上传参数](pages/07-上传图片/04-自定义上传参数.md)
     - [自定义 fileName](pages/07-上传图片/05-自定义filename.md)
-    - [withCredentials（跨域传递 cookie）](pages/07-上传图片/06-withCredentials.md)
-    - [自定义 timeout 时间](pages/07-上传图片/07-自定义timeout时间.md)
-    - [回调函数](pages/07-上传图片/08-回调函数.md)
-    - [自定义 alert](pages/07-上传图片/09-自定义alert.md)
-    - [自己实现上传图片](pages/07-上传图片/10-自己实现上传功能.md)
-    - [base64 保存图片](pages/07-上传图片/11-base64保存图片.md)
-    - [隐藏插入网络图片的功能](pages/07-上传图片/12-隐藏插入网络图片的功能.md)
+    - [自定义 header](pages/07-上传图片/06-自定义header.md)
+    - [withCredentials（跨域传递 cookie）](pages/07-上传图片/07-withCredentials.md)
+    - [自定义 timeout 时间](pages/07-上传图片/08-自定义timeout时间.md)
+    - [回调函数](pages/07-上传图片/09-回调函数.md)
+    - [自定义 alert](pages/07-上传图片/10-自定义alert.md)
+    - [自己实现上传图片](pages/07-上传图片/11-自己实现上传功能.md)
+    - [base64 保存图片](pages/07-上传图片/12-base64保存图片.md)
+    - [隐藏插入网络图片的功能](pages/07-上传图片/13-隐藏插入网络图片的功能.md)
 - [08-常用API](pages/08-常用API/README.md)
 
     - [editor 属性](pages/08-常用API/01-editor属性.md)
