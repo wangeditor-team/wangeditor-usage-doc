@@ -105,4 +105,6 @@ dist
 
 _book/
 
+.DS_Store
+
 TODO.md

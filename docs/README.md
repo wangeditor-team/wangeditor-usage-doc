@@ -10,6 +10,12 @@
 
 *（如想继续使用 `V3` 版本，可参考[这里](/pages/01-开始使用/08-使用V3版本.html)）*
 
+# 浏览器兼容性
+
+兼容常见的 PC 浏览器：Chrome，Firefox，Safar，Edge，QQ 浏览器，IE11。
+
+不支持移动端。
+
 # 基本使用
 
 npm 安装 `npm i wangeditor --save` ，几行代码即可创建一个编辑器
@@ -19,6 +25,8 @@ import E from 'wangeditor'
 const editor = new E('#div1')
 editor.create()
 ```
+
+更多使用方法，可参考[开始使用](/pages/01-开始使用/)，或者看左侧目录。
 
 # 交流
 
@@ -32,7 +40,5 @@ editor.create()
 - [github issues](https://github.com/wangeditor-team/wangeditor/issues) 提交问题
 
 # 开发人员
-
-（列出所有开发人员）
 
 - [王福朋](https://github.com/wangfupeng1988/)

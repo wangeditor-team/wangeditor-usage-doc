@@ -1,7 +1,6 @@
 # 用于 Vue 和 React
 
-待补充……
+- 在 Vue 中使用 wangEditor ，可参考 [wangEdior-with-vue](https://github.com/wangeditor-team/wangEdior-with-vue) 。
+- 在 React 中使用 wangEditor ，可参考 [wangEditor-with-react](https://github.com/wangeditor-team/wangEditor-with-react) 。
 
-注意：
-- 演示销毁 API
-- npm 安装包，要更新到正式的
+注意，用于 Vue 和 React 可能会需要**销毁编辑器**，可参考 [销毁编辑器](/pages/08-常用API/05-销毁编辑器.html)。
