@@ -41,4 +41,13 @@ editor.create()
 
 # 开发人员
 
-- [王福朋](https://github.com/wangfupeng1988/)
+- [王福朋](https://github.com/wangfupeng1988/) - wangEditor 创始人，资深前端工程师，PMP，曾就职于百度、滴滴
+- [太阳](http://info.tt2.ink/) - 佛系前端工程师~
+- [刘威](https://github.com/q378532364) - 希望我自己是一个会技术的产品经理，会产品的工程师
+- [童汉](http://www.itonghan.com/) - 星火世传 奋飞不辍
+- [李春淋](https://blog.csdn.net/qq_39235055)
+- [马鑫伟](https://github.com/RQsky)
+- [郑温剑](https://xiaokyo.com/)
+- [方智聪](https://github.com/clinfc)
+
+想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
