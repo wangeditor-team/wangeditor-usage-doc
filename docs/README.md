@@ -1,6 +1,6 @@
 # 介绍
 
-**wangEditor** ——  轻量级 web 富文本编辑器，配置方便，使用简单。
+**wangEditor** —— 轻量级 web 富文本编辑器，配置方便，使用简单。
 
 - 官网：[www.wangEditor.com](http://www.wangeditor.com/)
 - 文档：[www.wangEditor.com/doc](http://www.wangeditor.com/doc)
@@ -8,7 +8,7 @@
 
 ![](./images/demo-pic.png)
 
-*（如想继续使用 `V3` 版本，可参考[这里](/pages/01-开始使用/08-使用V3版本.html)）*
+_（如想继续使用 `V3` 版本，可参考[这里](/pages/01-开始使用/08-使用V3版本.html)）_
 
 # 浏览器兼容性
 
@@ -21,9 +21,9 @@
 npm 安装 `npm i wangeditor --save` ，几行代码即可创建一个编辑器
 
 ```js
-import E from 'wangeditor'
-const editor = new E('#div1')
-editor.create()
+import E from "wangeditor";
+const editor = new E("#div1");
+editor.create();
 ```
 
 更多使用方法，可参考[开始使用](/pages/01-开始使用/)，或者看左侧目录。
@@ -43,7 +43,7 @@ editor.create()
 
 - [王福朋](https://github.com/wangfupeng1988/) - wangEditor 创始人，资深前端工程师，PMP，曾就职于百度、滴滴
 - [太阳](http://info.tt2.ink/) - 佛系前端工程师~
-- [刘威](https://github.com/q378532364) - 希望我自己是一个会技术的产品经理，会产品的工程师
+- [刘威](https://github.com/q378532364) - 我已经想到了一个完美实现 execCommand api 的方法可是这里太小写不下
 - [童汉](http://www.itonghan.com/) - 星火世传 奋飞不辍
 - [李春淋](https://blog.csdn.net/qq_39235055)
 - [马鑫伟](https://github.com/RQsky)
