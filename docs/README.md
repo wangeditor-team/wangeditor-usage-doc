@@ -43,7 +43,7 @@ editor.create();
 
 - [王福朋](https://github.com/wangfupeng1988/) - wangEditor 创始人，资深前端工程师，PMP，曾就职于百度、滴滴
 - [太阳](http://info.tt2.ink/) - 佛系前端工程师~
-- [刘威](https://github.com/q378532364) - 我已经想到了一个完美实现 execCommand api 的方法可是这里太小写不下
+- [刘威](https://github.com/q378532364) - 我已经想到了一个完美实现 execCommand api 的方法可是这里太小写不下。
 - [童汉](http://www.itonghan.com/) - 星火世传 奋飞不辍
 - [李春淋](https://blog.csdn.net/qq_39235055)
 - [马鑫伟](https://github.com/RQsky)
