@@ -22,16 +22,16 @@ jobs:
         echo "---------- npm install ok ----------"
         npm run build ## 打包出 html ，到 _book 目录
         echo "---------- build ok ----------"
-    - name: set ssh key # 临时设置 ssh key
-      run: |
-        mkdir -p ~/.ssh/
-        echo "${{secrets.WFP_ID_RSA}}" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan "github.com" >> ~/.ssh/known_hosts
-        echo "---------- set ssh-key ok ----------"
+    # - name: set ssh key # 临时设置 ssh key
+    #   run: |
+    #     mkdir -p ~/.ssh/
+    #     echo "${{secrets.WFP_ID_RSA}}" > ~/.ssh/id_rsa
+    #     chmod 600 ~/.ssh/id_rsa
+    #     ssh-keyscan "github.com" >> ~/.ssh/known_hosts
+    #     echo "---------- set ssh-key ok ----------"
     - name: download and replace # 下载现有文件，替换
       run: |
-        git clone git@github.com:wangEditor/doc.git
+        git clone https://github.com/wangEditor/doc.git
         mv doc doc-pages ## pages 项目，重命名
         echo "---------- git clone ok ----------"
         cp -r ./_book/* ./doc-pages ## 用最新构建出来的文件，替换现有的
@@ -46,6 +46,10 @@ jobs:
         echo "---------- end git status ----------"
         git add .
         git commit -m "update by github actions"
+
+        git remote remove origin
+        git remote add origin https://wangeditor:${{secrets.WANGEDITOR_PASSWD}}@github.com/wangEditor/doc.git
+
         git push origin master
     - name: delete ssh key # 删除 ssh key
       run: rm -rf ~/.ssh/id_rsa
