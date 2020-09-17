@@ -13,7 +13,8 @@
     - [一个页面多个编辑器](pages/01-开始使用/05-一个页面多个编辑器.md)
     - [配置 z-index](pages/01-开始使用/06-zIndex.md)
     - [placeholder](pages/01-开始使用/07-placeholder.md)
-    - [使用V3版本](pages/01-开始使用/08-使用V3版本.md)
+    - [自动 focus](pages/01-开始使用/08-自动focus.md)
+    - [使用V3版本](pages/01-开始使用/99-使用V3版本.md)
 - [02-内容处理](pages/02-内容处理/README.md)
 
     - [设置内容](pages/02-内容处理/01-设置内容.md)
