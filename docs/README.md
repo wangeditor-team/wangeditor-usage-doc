@@ -45,7 +45,7 @@ editor.create();
 - [太阳](http://info.tt2.ink/) - 佛系前端工程师~
 - [刘威](https://github.com/q378532364) - 我已经想到了一个完美实现 execCommand api 的方法可是这里太小写不下。
 - [童汉](http://www.itonghan.com/) - 星火世传 奋飞不辍
-- [李春淋](https://blog.csdn.net/qq_39235055)
+- [李春淋](https://blog.csdn.net/qq_39235055) - 只要不放弃努力和追求，小草也有点缀春天价值。
 - [马鑫伟](https://github.com/RQsky)
 - [郑温剑](https://xiaokyo.com/)
 - [方智聪](https://github.com/clinfc)
