@@ -48,7 +48,7 @@ editor.create();
 - [李春淋](https://blog.csdn.net/qq_39235055) - 只要不放弃努力和追求，小草也有点缀春天价值。
 - [马鑫伟](https://github.com/RQsky)
 - [郑温剑](https://xiaokyo.com/)
-- [方智聪](https://github.com/clinfc)
+- [方智聪](https://github.com/clinfc) - 翠林
 - [shulan](https://github.com/shulandmimi)
 - [张超](https://github.com/zhangporco)
 - [bella](https://github.com/qiaoqiaotu)
