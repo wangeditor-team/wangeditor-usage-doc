@@ -49,7 +49,8 @@ editor.create();
 - [马鑫伟](https://github.com/RQsky)
 - [郑温剑](https://xiaokyo.com/)
 - [方智聪](https://github.com/clinfc)
-- [尚爽](https://github.com/shulandmimi)
+- [shulan](https://github.com/shulandmimi)
 - [张超](https://github.com/zhangporco)
+- [bella](https://github.com/qiaoqiaotu)
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
