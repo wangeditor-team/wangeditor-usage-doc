@@ -45,11 +45,12 @@ editor.create();
 - [太阳](http://info.tt2.ink/) - 佛系前端工程师~
 - [刘威](https://github.com/q378532364) - 我已经想到了一个完美实现 execCommand api 的方法可是这里太小写不下。
 - [童汉](http://www.itonghan.com/) - 星火世传 奋飞不辍
-- [李春淋](https://blog.csdn.net/qq_39235055)
+- [李春淋](https://blog.csdn.net/qq_39235055) - 只要不放弃努力和追求，小草也有点缀春天价值。
 - [马鑫伟](https://github.com/RQsky)
 - [郑温剑](https://xiaokyo.com/)
-- [方智聪](https://github.com/clinfc)
-- [尚爽](https://github.com/shulandmimi)
+- [方智聪](https://github.com/clinfc) - 翠林
+- [shulan](https://github.com/shulandmimi)
 - [张超](https://github.com/zhangporco)
+- [bella](https://github.com/qiaoqiaotu)
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
