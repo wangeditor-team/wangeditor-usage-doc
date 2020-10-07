@@ -4,7 +4,7 @@ Panel 菜单，点击菜单时，弹出 panel ，如下图。
 
 ![](../../images/panel.png)
 
-开发一个 Panel 菜单，可直接参考[视频菜单的源码](https://github.com/wangeditor-team/we-next/tree/master/src/menus/video)，比较好理解。看源码过程中需注意：
+开发一个 Panel 菜单，可直接参考[视频菜单的源码](https://github.com/wangeditor-team/wangEditor/tree/master/src/menus/video)，比较好理解。看源码过程中需注意：
 
 - 忽略 typescript 的类型
 - 忽略 `index.ts` 中的 `MenuActive`
