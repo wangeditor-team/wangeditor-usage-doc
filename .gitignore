@@ -108,3 +108,5 @@ _book/
 .DS_Store
 
 TODO.md
+
+package-lock.json

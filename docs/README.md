@@ -12,7 +12,7 @@ _（如想继续使用 `V3` 版本，可参考[这里](/pages/01-开始使用/08
 
 # 浏览器兼容性
 
-兼容常见的 PC 浏览器：Chrome，Firefox，Safar，Edge，QQ 浏览器，IE11。
+兼容常见的 PC 浏览器：Chrome，Firefox，Safari，Edge，QQ 浏览器，IE11。
 
 不支持移动端。
 

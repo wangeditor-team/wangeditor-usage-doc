@@ -16,7 +16,8 @@
         "tbfed-pagefooter",
         "donate",
         "hide-element",
-        "summary"
+        "summary",
+        "extra-html"
     ],
     "pluginsConfig": {
         "sharing": {
@@ -47,6 +48,13 @@
         },
         "hide-element": {
             "elements": [".gitbook-link"]
+        },
+        "extra-html": {
+            "header": {
+                "files": [
+                    "extra-html-files/baidu-tongji.html"
+                ]
+            }
         }
     }
 }
