@@ -39,6 +39,10 @@ editor.create();
 
 - [github issues](https://github.com/wangeditor-team/wangeditor/issues) 提交问题
 
+# 贡献代码
+
+欢迎非团队成员贡献代码，提交 Pull Request，请一定参考 [贡献代码流程](https://github.com/wangeditor-team/wangEditor/blob/master/docs/contribution.md)。
+
 # 开发人员
 
 - [王福朋](https://github.com/wangfupeng1988/) - wangEditor 创始人，资深前端工程师，PMP，曾就职于百度、滴滴
