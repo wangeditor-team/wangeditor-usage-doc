@@ -83,3 +83,8 @@
     - [编辑区域的事件钩子](pages/11-自定义扩展菜单/06-编辑区域的事件钩子.md)
     - [更多可参考的源码](pages/11-自定义扩展菜单/07-更多可参考的源码.md)
 - [12-多语言](pages/12-多语言/README.md)
+
+- [13-常见问题](pages/13-常见问题/README.md)
+
+    - [max-length](pages/13-常见问题/01-maxlength.md)
+    - [XSS 攻击](pages/13-常见问题/02-xss攻击.md)
