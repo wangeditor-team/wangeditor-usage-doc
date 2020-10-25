@@ -50,7 +50,7 @@ editor.create();
 - [刘威](https://github.com/q378532364) - 我已经想到了一个完美实现 execCommand api 的方法可是这里太小写不下。
 - [童汉](http://www.itonghan.com/) - 星火世传 奋飞不辍
 - [李春淋](https://blog.csdn.net/qq_39235055) - 只要不放弃努力和追求，小草也有点缀春天价值。
-- [郑温剑](https://xiaokyo.com/)
+- [郑温剑](https://github.com/xiaokyo) - 放弃很容易，但是坚持会更酷。
 - [方智聪](https://github.com/clinfc) - 翠林
 - [shulan](https://github.com/shulandmimi)
 - [张超](https://github.com/zhangporco)
