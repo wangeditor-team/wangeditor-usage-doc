@@ -63,6 +63,7 @@
     - [自己实现上传图片](pages/07-上传图片/11-自己实现上传功能.md)
     - [base64 保存图片](pages/07-上传图片/12-base64保存图片.md)
     - [隐藏插入网络图片的功能](pages/07-上传图片/13-隐藏插入网络图片的功能.md)
+    - [上传至阿里云OSS](pages/07-上传图片/14-上传至阿里云OSS.md)
 - [08-常用API](pages/08-常用API/README.md)
 
     - [editor 属性](pages/08-常用API/01-editor属性.md)
