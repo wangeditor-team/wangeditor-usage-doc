@@ -2,7 +2,7 @@
 
 利用[自己实现上传功能](http://www.wangeditor.com/doc/pages/07-%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/11-%E8%87%AA%E5%B7%B1%E5%AE%9E%E7%8E%B0%E4%B8%8A%E4%BC%A0%E5%8A%9F%E8%83%BD.html)来实现阿里云OSS的上传
 
-[阿里云官方文档](https://help.aliyun.com/document_detail/64047.html?spm=a2c4g.11186623.6.1466.605572148P3NOZ)
+首先，[安装 OSS 相关工具](https://help.aliyun.com/document_detail/64041.html?spm=a2c4g.11186623.6.1463.7729677aEdDm5v)，然后编写代码：
 
 ```js
 // 具体值需要去阿里云控制台获取
@@ -28,4 +28,4 @@ editor.config.customUploadImg = function (resultFiles, insertImgFn) {
 }
 ```
 
-代码例子[点这里](https://github.com/wangeditor-team/wangEditor/blob/master/examples/upload-to-oss.html)
+更多配置请参考 [阿里云官方文档](https://help.aliyun.com/document_detail/64047.html?spm=a2c4g.11186623.6.1466.605572148P3NOZ)
