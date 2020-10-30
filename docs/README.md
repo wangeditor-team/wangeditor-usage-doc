@@ -56,6 +56,6 @@ editor.create();
 - [张超](https://github.com/zhangporco)
 - [bella](https://github.com/qiaoqiaotu)
 - [罗超](https://github.com/echoLC) - 天才就是百分之一的灵感加上百分之九十九的努力。
-- [haha]（https://github.com/hahaaha）
+- [haha](https://github.com/hahaaha)
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
