@@ -37,6 +37,6 @@
 
 ## 设置 JSON
 
-使用 `editor.txt.setJSON({...})` ，传入上述的 JSON 格式，可设置内容。
+使用 `editor.txt.setJSON([...])` ，传入上述的 JSON 格式，可设置内容。
 
 注意，`setJSON` 从 `v4.3.0` 版本开始支持。
