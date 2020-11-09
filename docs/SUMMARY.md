@@ -21,7 +21,7 @@
     - [追加新内容](pages/02-内容处理/02-追加新内容.md)
     - [获取 html](pages/02-内容处理/03-获取html.md)
     - [获取 text](pages/02-内容处理/04-获取text.md)
-    - [获取 JSON](pages/02-内容处理/05-获取JSON.md)
+    - [获取/设置 JSON](pages/02-内容处理/05-获取和设置JSON.md)
     - [清空内容](pages/02-内容处理/06-清空内容.md)
     - [配置历史记录](pages/02-内容处理/07-配置历史记录.md)
 - [03-配置菜单](pages/03-配置菜单/README.md)
