@@ -53,7 +53,6 @@ editor.create();
 - [李春淋](https://blog.csdn.net/qq_39235055) - 只要不放弃努力和追求，小草也有点缀春天价值。
 - [郑温剑](https://github.com/xiaokyo) - 放弃很容易，但是坚持会更酷。
 - [方智聪](https://github.com/clinfc) - 翠林
-- [shulan](https://github.com/shulandmimi)
 - [张超](https://github.com/zhangporco)
 - [bella](https://github.com/qiaoqiaotu)
 - [罗超](https://github.com/echoLC) - 天才就是百分之一的灵感加上百分之九十九的努力。
