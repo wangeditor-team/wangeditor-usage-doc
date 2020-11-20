@@ -71,6 +71,7 @@
     - [内容操作 API](pages/08-常用API/03-内容操作API.md)
     - [禁用编辑器](pages/08-常用API/04-禁用编辑器.md)
     - [销毁编辑器](pages/08-常用API/05-销毁编辑器.md)
+    - [scroll-to-head](pages/08-常用API/06-scroll-to-head.md)
 - [09-用于Vue和React](pages/09-用于Vue和React/README.md)
 
 - [10-使用typescript](pages/10-使用typescript/README.md)
