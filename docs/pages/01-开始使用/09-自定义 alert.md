@@ -6,7 +6,6 @@
 
 ```js
 import { message } from 'antd';
-...
 
 const editor = new E('#div1')
 // 以 Ant Design 为例
