@@ -14,7 +14,7 @@
     - [配置 z-index](pages/01-开始使用/06-zIndex.md)
     - [placeholder](pages/01-开始使用/07-placeholder.md)
     - [自动 focus](pages/01-开始使用/08-自动focus.md)
-    - [配置alert](pages/01-开始使用/09-配置alert.md)
+    - [自定义 alert](pages/01-开始使用/09-自定义 alert.md)
     - [使用V3版本](pages/01-开始使用/99-使用V3版本.md)
 - [02-内容处理](pages/02-内容处理/README.md)
 
