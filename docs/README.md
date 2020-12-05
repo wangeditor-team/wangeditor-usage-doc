@@ -59,5 +59,6 @@ editor.create();
 - [haha](https://github.com/hahaaha)
 - [李宁](https://github.com/lnimpossible) - 一切皆有可能。
 - [饶思羚](https://github.com/rsl140)
+- [雷](https://github.com/jerexyz)
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
