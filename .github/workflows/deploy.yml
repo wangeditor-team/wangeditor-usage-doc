@@ -21,6 +21,7 @@ jobs:
         npm i
         echo "---------- npm install ok ----------"
         npm run build ## 打包出 html ，到 _book 目录
+        npm run build ## 再次打包，本次测试着，执行一次 build 之后，html 不正确，执行两次 build 就好了，具体原因待查？？
         echo "---------- build ok ----------"
     # - name: set ssh key # 临时设置 ssh key
     #   run: |
