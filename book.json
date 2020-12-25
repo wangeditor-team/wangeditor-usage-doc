@@ -39,8 +39,8 @@
             "copyright":"Copyright &copy wangEditor (2020 - present)"
         },
         "donate": {
-            "wechat": "https://what-is-fe.gitee.io/images/wechat-pay.jpeg",
-            "alipay": "https://what-is-fe.gitee.io/images/ali-pay.jpeg",
+            "wechat": "http://www.wangeditor.com/imgs/wechat-pay.jpeg",
+            "alipay": "http://www.wangeditor.com/imgs/ali-pay.jpeg",
             "title": "",
             "button": "捐赠",
             "alipayText": "",
