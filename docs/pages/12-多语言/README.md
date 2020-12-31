@@ -1,9 +1,9 @@
 # 多语言
 
-> 默认情况 wangEditor 是不提供多语言功能的，因为这会增大我们的体积，让我们变得臃肿。  
+> 默认情况 wangEditor 是不提供多语言功能的，因为这会增大我们的体积，让我们变得臃肿。
 
 ## 加载 i18next
-想要使用多语言功能的小伙伴，首先需要安装 i18next  
+想要使用多语言功能的小伙伴，首先需要安装 i18next
 ```
 npm i -S i18next
 ```
@@ -17,12 +17,12 @@ const E = window.wangEditor
 const editor = new E('#div1')
 
 // 引入 i18next 插件
-editor.i18next = window.i18next 
+editor.i18next = window.i18next
 
 editor.create()
 ```
 ## 使用 i18next
-目前我们仅提供两种翻译: 'zh-CN'(简体中文) 和 'en'(英文)  
+目前我们仅提供两种翻译: 'zh-CN'(简体中文) 和 'en'(英文)
 使用它们也很简单，只需要在创建编辑器前，设置 lang 就可以了
 ```
 // js 引入方式
@@ -33,7 +33,7 @@ const editor = new E('#div1')
 // 选择语言
 editor.config.lang = 'en'
 // 引入 i18next 插件
-editor.i18next = window.i18next 
+editor.i18next = window.i18next
 
 editor.create()
 ```
@@ -54,7 +54,7 @@ editor.config.languages['japan'] = {
     }
 }
 // 引入 i18next 插件
-editor.i18next = window.i18next 
+editor.i18next = window.i18next
 
 
 editor.create()
@@ -71,6 +71,33 @@ editor.create()
         如: 'like',
         请输入正文: 'please enter the text',
         menus: {
+          title: {
+                标题: '标题',
+                加粗: '加粗',
+                字号: '字号',
+                字体: '字体',
+                斜体: '斜体',
+                下划线: '下划线',
+                删除线: '删除线',
+                缩进: '缩进',
+                行高: '行高',
+                文字颜色: '文字颜色',
+                背景色: '背景色',
+                链接: '链接',
+                序列: '序列',
+                对齐: '对齐',
+                引用: '引用',
+                表情: '表情',
+                图片: '图片',
+                视频: '视频',
+                表格: '表格',
+                代码: '代码',
+                分割线: '分割线',
+                恢复: '恢复',
+                撤销: '撤销',
+                全屏: '全屏',
+                代办事项: '代办事项',
+            },
             dropListMenu: {
                 设置标题: 'title',
                 背景颜色: 'background',
