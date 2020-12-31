@@ -12,7 +12,8 @@ class Head extends DropListMenu {
     constructor(editor) {
         // 菜单栏中，标题菜单的 DOM 元素
         // 注意，这里的 $ 不是 jQuery ，是 E.$ （wangEditor 自带的 DOM 操作工具，类似于 jQuery）
-        const $elem = $('<div class="w-e-menu"><i class="w-e-icon-header"></i></div>')
+        // data-title属性表示当鼠标悬停在该按钮上时提示该按钮的功能简述
+        const $elem = $('<div class="w-e-menu" data-title="标题"><i class="w-e-icon-header"></i></div>')
 
         // droplist 配置
         const dropListConf = {
