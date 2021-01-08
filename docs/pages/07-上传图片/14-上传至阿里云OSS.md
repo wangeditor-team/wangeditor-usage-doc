@@ -1,6 +1,6 @@
 # 上传至阿里云OSS
 
-利用[自己实现上传功能](http://www.wangeditor.com/doc/pages/07-%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/11-%E8%87%AA%E5%B7%B1%E5%AE%9E%E7%8E%B0%E4%B8%8A%E4%BC%A0%E5%8A%9F%E8%83%BD.html)来实现阿里云OSS的上传
+利用[自己实现上传功能](https://doc.wangeditor.com/pages/07-%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/11-%E8%87%AA%E5%B7%B1%E5%AE%9E%E7%8E%B0%E4%B8%8A%E4%BC%A0%E5%8A%9F%E8%83%BD.html)来实现阿里云OSS的上传
 
 首先，[安装 OSS 相关工具](https://help.aliyun.com/document_detail/64041.html?spm=a2c4g.11186623.6.1463.7729677aEdDm5v)，然后编写代码：
 
