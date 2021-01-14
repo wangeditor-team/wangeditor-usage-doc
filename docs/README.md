@@ -15,6 +15,7 @@ _（如想继续使用 `V3` 版本，可参考[这里](/pages/01-开始使用/08
 在线体验 demo 可到 [codepen.io/collection/DNmPQV](https://codepen.io/collection/DNmPQV) 。
 
 注意，如果打不开，可以去查看 [github examples](https://github.com/wangeditor-team/wangEditor/tree/master/examples) 的源码。
+
 # 浏览器兼容性
 
 兼容常见的 PC 浏览器：Chrome，Firefox，Safari，Edge，QQ 浏览器，IE11。
@@ -24,23 +25,29 @@ _（如想继续使用 `V3` 版本，可参考[这里](/pages/01-开始使用/08
 # 基本使用
 
 ## NPM
+
 ```bash
 npm i wangeditor --save
 ```
+
 安装后几行代码即可创建一个编辑器：
 
 ```js
-import E from "wangeditor";
-const editor = new E("#div1");
-editor.create();
+import E from "wangeditor"
+const editor = new E("#div1")
+editor.create()
 ```
+
 ## CDN
 
 ```html
-<script type="text/javascript" src="https://unpkg.com/wangeditor/dist/wangEditor.min.js"></script>
+<script
+  type="text/javascript"
+  src="https://unpkg.com/wangeditor/dist/wangEditor.min.js"
+></script>
 <script type="text/javascript">
   const E = window.wangEditor
-  const editor = new E('#div1')
+  const editor = new E("#div1")
   // 或者 const editor = new E(document.getElementById('div1'))
   editor.create()
 </script>
@@ -87,5 +94,6 @@ PS：如果上述 js 地址无效，可使用 `https://unpkg.zhimg.com/wangedito
 - [李宁](https://github.com/lnimpossible) - 一切皆有可能。
 - [饶思羚](https://github.com/rsl140)
 - [雷](https://github.com/jerexyz)
+- [颜彪](https://github.com/86driver) - 大家好，我是二号男嘉宾，我的交友宣言是爱我爱我爱我把，选我选我选我吧
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
