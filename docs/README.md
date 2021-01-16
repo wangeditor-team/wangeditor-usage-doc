@@ -93,7 +93,6 @@ PS：如果上述 js 地址无效，可使用 `https://unpkg.zhimg.com/wangedito
 - [haha](https://github.com/hahaaha)
 - [李宁](https://github.com/lnimpossible) - 一切皆有可能。
 - [饶思羚](https://github.com/rsl140)
-- [雷](https://github.com/jerexyz)
 - [颜彪](https://github.com/86driver) - 大家好，我是二号男嘉宾，我的交友宣言是爱我爱我爱我把，选我选我选我吧
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
