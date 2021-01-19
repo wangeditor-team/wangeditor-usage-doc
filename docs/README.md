@@ -43,7 +43,7 @@ editor.create()
 ```html
 <script
   type="text/javascript"
-  src="https://unpkg.com/wangeditor/dist/wangEditor.min.js"
+  src="https://cdn.jsdelivr.net/npm/wangeditor@latest/dist/wangEditor.min.js"
 ></script>
 <script type="text/javascript">
   const E = window.wangEditor
@@ -53,14 +53,7 @@ editor.create()
 </script>
 ```
 
-PS：如果上述 js 地址无效，可使用 `https://unpkg.zhimg.com/wangeditor@4.6.2/dist/wangEditor.min.js` 。但注意，请一定**写明版本号**！！如这里的 `4.6.2` 。
-
 更多使用方法，可参考[开始使用](/pages/01-开始使用/)，或者看左侧目录。
-
-## 下载
-
-- 优先使用 https://unpkg.com/wangeditor/dist/
-- 备用地址 https://unpkg.zhimg.com/wangeditor/dist/
 
 # 交流
 
