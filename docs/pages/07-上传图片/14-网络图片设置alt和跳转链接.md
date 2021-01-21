@@ -1,5 +1,5 @@
-# 网络图片设置alt和超链接
-在wangEditor中，插入网络图片功能可以分别设置添加alt属性和超链接选项，具体参考如下代码：
+# 网络图片设置alt和跳转链接
+在wangEditor中，插入网络图片功能可以分别设置添加alt属性和跳转链接选项，具体参考如下代码：
 ```js
 // 配置alt选项
 editor.config.showLinkImgAlt = true
