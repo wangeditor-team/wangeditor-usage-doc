@@ -88,5 +88,6 @@ editor.create()
 - [饶思羚](https://github.com/rsl140)
 - [颜彪](https://github.com/86driver) - 大家好，我是二号男嘉宾，我的交友宣言是爱我爱我爱我把，选我选我选我吧
 - [刘庆华(火热)](https://github.com/liuqh0609) - 热爱着，年轻着
+- [李晨](https://github.com/lichenabson)
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
