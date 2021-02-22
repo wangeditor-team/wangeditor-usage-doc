@@ -89,5 +89,6 @@ editor.create()
 - [颜彪](https://github.com/86driver) - 大家好，我是二号男嘉宾，我的交友宣言是爱我爱我爱我把，选我选我选我吧
 - [刘庆华(火热)](https://github.com/liuqh0609) - 热爱着，年轻着
 - [李晨](https://github.com/lichenabson)
+- [顾乾峰](https://juejin.cn/user/976022056999944) - 一条喜欢撸码也喜欢打游戏的咸鱼，是真努力还是假努力，时间会检验一切！
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
