@@ -1,5 +1,7 @@
 # 介绍
 
+[**English documentation**](https://doc-en.wangeditor.com/)
+
 **wangEditor** —— 轻量级 web 富文本编辑器，配置方便，使用简单。
 
 - 官网：[www.wangEditor.com](https://www.wangeditor.com/)
