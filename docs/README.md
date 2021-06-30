@@ -93,5 +93,6 @@ editor.create()
 - [李晨](https://github.com/lichenabson)
 - [顾乾峰](https://juejin.cn/user/976022056999944) - 一条喜欢撸码也喜欢打游戏的咸鱼，是真努力还是假努力，时间会检验一切！
 - [郑越冕](https://juejin.cn/user/3069492197592781)
+- [史莱姆](https://github.com/shi-lai-mu)
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
