@@ -10,3 +10,5 @@ editor.config.placeholder = '自定义 placeholder 提示文字'
 
 editor.create()
 ```
+
+注意：在使用国际化时，如果 placeholder 中含有 `.`，请在模板中配置，具体参考[这里](../12-多语言/README.md)。
