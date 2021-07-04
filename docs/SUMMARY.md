@@ -38,7 +38,7 @@
     - [设置菜单栏提示](pages/03-配置菜单/09-设置菜单栏提示.md)
 - [04-回调函数](pages/04-回调函数/README.md)
 
-    - [onchange](pages/04-回调函数/01-onchange.md)
+    - [onchange和onSelectionChange](pages/04-回调函数/01-onchange和onSelectionChange.md)
     - [onfocus 和 onblur](pages/04-回调函数/02-onfocus和onblur.md)
     - [插入网络图片的回调事件](pages/04-回调函数/04-插入网络图片的回调.md)
     - [插入网络视频的回调事件](pages/04-回调函数/05-插入网络视频的回调.md)
