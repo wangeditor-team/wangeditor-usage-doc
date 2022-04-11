@@ -67,24 +67,11 @@ editor.create()
 
 # 交流
 
-加入 QQ 群
-
-- 164999061（人已满）
-- 710646022（人已满）
-- 901247714（人已满）
-- 606602511（人已满）
-- 764778054（人已满）
-- 812473515
-
 提交 bug 或建议
 
 - [github issues](https://github.com/wangeditor-team/wangeditor/issues) 提交问题
 
-# 贡献代码
-
-欢迎非团队成员贡献代码，提交 Pull Request，请一定参考 [贡献代码流程](https://github.com/wangeditor-team/wangEditor/blob/master/docs/contribution.md)。
-
-# 开发人员
+# V4 开发人员
 
 - [王福朋](https://github.com/wangfupeng1988/) - wangEditor 创始人，资深前端工程师，PMP，曾就职于百度、滴滴
 - [太阳](http://info.tt2.ink/) - 佛系前端工程师~
@@ -106,5 +93,3 @@ editor.create()
 - [郑越冕](https://juejin.cn/user/3069492197592781)
 - [Gavin(杨浩)](https://github.com/Gavin-yh)
 - [史莱姆](https://github.com/shi-lai-mu)
-
-想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
