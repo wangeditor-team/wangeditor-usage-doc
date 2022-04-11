@@ -1,5 +1,5 @@
 {
-  "name": "wangeditor-usege-doc",
+  "name": "wangeditor-usage-doc",
   "version": "1.0.0",
   "description": "wangEditor 用户文档",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangeditor-team/wangeditor-usege-doc.git"
+    "url": "git+https://github.com/wangeditor-team/wangeditor-usage-doc.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wangeditor-team/wangeditor-usege-doc/issues"
+    "url": "https://github.com/wangeditor-team/wangeditor-usage-doc/issues"
   },
-  "homepage": "https://github.com/wangeditor-team/wangeditor-usege-doc#readme",
+  "homepage": "https://github.com/wangeditor-team/wangeditor-usage-doc#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
   },

@@ -1,11 +1,19 @@
+# 注意
+
+当前文档是 wangEditor v4 版本的。
+
+wangEditor v5 已经**正式发布**，可参考[文档](https://www.wangeditor.com)。
+
+v5 发布之后，v4 将不再开发新功能。
+
 # 介绍
 
-[**English documentation**](https://www.wangeditor.com/doc-en/)
+[**English documentation**](https://www.wangeditor.com/v4-en/)
 
 **wangEditor** —— 轻量级 web 富文本编辑器，配置方便，使用简单。
 
 - 官网：[www.wangEditor.com](https://www.wangeditor.com/)
-- 文档：[www.wangeditor.com/doc](https://www.wangeditor.com/doc/)
+- 文档：[www.wangeditor.com/v4](https://www.wangeditor.com/v4/)
 - 源码：[github.com/wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangeditor) （欢迎 star）
 
 ![](./images/demo-pic.png)

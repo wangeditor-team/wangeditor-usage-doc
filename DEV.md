@@ -4,6 +4,8 @@
 
 ## 启动项目
 
+【注意】nodejs 切换到 v10 版本，否则运行会报错。
+
 - git clone 项目
 - 安装插件 `npm install`
 - 启动 `npm run dev`
@@ -16,7 +18,7 @@
 ## 发布
 
 - 【注意】如果增加了新文件，发布之前一定要在本地运行 `npm run dev` ，以更新目录
-- 提交代码到 `master` 分支，会触发 [github actions](https://github.com/wangeditor-team/wangeditor-usege-doc/actions)
+- 提交代码到 `master` 分支，会触发 [github actions](https://github.com/wangeditor-team/wangeditor-usage-doc/actions)
 - 等待 github actions 执行完成，重新访问页面即可
 
 ## 修改 gitbook 配置

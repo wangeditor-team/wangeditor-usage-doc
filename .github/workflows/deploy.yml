@@ -32,14 +32,13 @@ jobs:
         echo "---------- set ssh-key ok ----------"
     - name: download and replace # 下载现有文件，替换
       run: |
-        git clone git@github.com:wangEditor/doc.git
-        mv doc doc-pages ## pages 项目，重命名
+        git clone git@github.com:wangEditor/v4.git
         echo "---------- git clone ok ----------"
-        cp -r ./_book/* ./doc-pages ## 用最新构建出来的文件，替换现有的
+        cp -r ./_book/* ./v4 ## 用最新构建出来的文件，替换现有的
         echo "---------- replace ok ----------"
     - name: upload # 上传文件
       run: |
-        cd ./doc-pages
+        cd ./v4
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
         echo "---------- begin git status ----------"
