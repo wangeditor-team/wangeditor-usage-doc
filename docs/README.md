@@ -10,9 +10,9 @@ v5 发布之后，v4 将不再开发新功能。
 
 [**English documentation**](https://www.wangeditor.com/v4-en/)
 
-**wangEditor** —— 轻量级 web 富文本编辑器，配置方便，使用简单。
+**wangEditor4** —— 轻量级 web 富文本编辑器，配置方便，使用简单。
 
-- 官网：[www.wangEditor.com](https://www.wangeditor.com/)
+- 官网：[www.wangeditor.com](https://www.wangeditor.com/)
 - 文档：[www.wangeditor.com/v4](https://www.wangeditor.com/v4/)
 - 源码：[github.com/wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangeditor) （欢迎 star）
 
